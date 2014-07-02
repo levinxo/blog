@@ -18,6 +18,10 @@ DISQUS_SITENAME = 'levinxo'
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["sitemap"]
 
+ARCHIVES_SAVE_AS = 'archive.html'
+ARTICLE_URL = 'archive/{slug}/'
+ARTICLE_SAVE_AS = 'archive/{slug}/index.html'
+
 SITEMAP = {
     "format": "xml",
     "priorities": {
