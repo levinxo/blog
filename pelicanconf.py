@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'levin'
 SITENAME = u"Levin's blog"
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -13,6 +13,24 @@ TIMEZONE = 'Asia/Shanghai'
 DEFAULT_LANG = u'zh-CN'
 
 THEME = 'pelican-themes/gum'
+DISQUS_SITENAME = 'levinxo'
+
+PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ["sitemap"]
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.7,
+        "indexes": 0.3,
+        "pages": 0.3,
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "monthly",
+        "pages": "monthly",
+    }
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
