@@ -32,6 +32,15 @@ SITEMAP = {
     }
 }
 
+
+STATIC_PATHS = [
+    'static',
+]
+EXTRA_PATH_METADATA = {
+    'static/robots.txt': {'path': 'robots.txt'},
+}
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
