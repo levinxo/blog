@@ -4,6 +4,6 @@ Thumbs.db
 output/*
 cache/*
 *.pyc
-
+*.pid
 
 
