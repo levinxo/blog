@@ -2,7 +2,7 @@ Title: CentOS系统时区设置
 Author: levin
 Date: 2012-10-26 18:10
 Slug: centos-timezone-setting
-Categoriy: Unix/Linux
+Category: Unix/Linux
 Tags: Linux
 
 在安装完CentOS之后，设置时区为香港时间，却发现比真实的时间多了8小时。
