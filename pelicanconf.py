@@ -38,11 +38,13 @@ SITEMAP = {
 
 
 STATIC_PATHS = [
-    'static',
+    'static','img'
 ]
 EXTRA_PATH_METADATA = {
     'static/robots.txt': {'path': 'robots.txt'},
     'static/favicon.ico': {'path': 'favicon.ico'},
+    'static/README': {'path': 'README.md'},
+    'static/CNAME': {'path': 'CNAME'},
 }
 
 
