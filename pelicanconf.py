@@ -28,13 +28,13 @@ CATEGORIES_SAVE_AS = False
 SITEMAP = {
     "format": "xml",
     "priorities": {
-        "articles": 0.7,
-        "indexes": 0.3,
-        "pages": 0.3,
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5,
     },
     "changefreqs": {
         "articles": "monthly",
-        "indexes": "monthly",
+        "indexes": "daily",
         "pages": "monthly",
     }
 }
