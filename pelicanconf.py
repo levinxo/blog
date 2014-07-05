@@ -21,6 +21,9 @@ PLUGINS = ["sitemap"]
 ARCHIVES_SAVE_AS = 'archive.html'
 ARTICLE_URL = 'archive/{slug}/'
 ARTICLE_SAVE_AS = 'archive/{slug}/index.html'
+AUTHORS_SAVE_AS = False
+TAGS_SAVE_AS = False
+CATEGORIES_SAVE_AS = False
 
 SITEMAP = {
     "format": "xml",
