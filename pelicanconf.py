@@ -45,6 +45,7 @@ EXTRA_PATH_METADATA = {
     'static/favicon.ico': {'path': 'favicon.ico'},
     'static/README': {'path': 'README.md'},
     'static/CNAME': {'path': 'CNAME'},
+    'static/url': {'path': 'url.html'},
 }
 
 
