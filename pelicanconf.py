@@ -12,18 +12,16 @@ TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh-CN'
 
-THEME = 'pelican-themes/gum'
+THEME = 'pelican-themes/elegant'
 DISQUS_SITENAME = 'levinxo'
 
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["sitemap","tipue_search",]
 
-ARCHIVES_SAVE_AS = 'archive.html'
 ARTICLE_URL = 'archive/{slug}/'
 ARTICLE_SAVE_AS = 'archive/{slug}/index.html'
 AUTHORS_SAVE_AS = False
-TAGS_SAVE_AS = False
-CATEGORIES_SAVE_AS = False
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search', '404'))
 
 SITEMAP = {
     "format": "xml",
@@ -68,7 +66,7 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 SUMMARY_MAX_LENGTH = 8
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = None
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
