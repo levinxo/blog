@@ -16,7 +16,7 @@ THEME = 'pelican-themes/gum'
 DISQUS_SITENAME = 'levinxo'
 
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["sitemap"]
+PLUGINS = ["sitemap","tipue_search",]
 
 ARCHIVES_SAVE_AS = 'archive.html'
 ARTICLE_URL = 'archive/{slug}/'
