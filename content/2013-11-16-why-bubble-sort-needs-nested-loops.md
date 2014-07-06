@@ -7,6 +7,7 @@ Tags: algorithm
 
 下面是一个冒泡排序的算法：<!-- more -->
 
+    #!c
     #include <stdio.h>
     
     #define LEN 10
