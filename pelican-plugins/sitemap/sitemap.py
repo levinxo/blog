@@ -181,13 +181,13 @@ class SitemapGenerator(object):
         path = os.path.join(self.output_path, 'sitemap.{0}'.format(self.format))
 
         pages = self.context['pages'] + self.context['articles'] \
-                + [ c for (c, a) in self.context['categories']] \
-                + [ t for (t, a) in self.context['tags']] \
-                + [ a for (a, b) in self.context['authors']]
+                #+ [ c for (c, a) in self.context['categories']] \
+                #+ [ t for (t, a) in self.context['tags']] \
+                #+ [ a for (a, b) in self.context['authors']]
 
-        self.set_url_wrappers_modification_date(self.context['categories'])
-        self.set_url_wrappers_modification_date(self.context['tags'])
-        self.set_url_wrappers_modification_date(self.context['authors'])
+        #self.set_url_wrappers_modification_date(self.context['categories'])
+        #self.set_url_wrappers_modification_date(self.context['tags'])
+        #self.set_url_wrappers_modification_date(self.context['authors'])
 
         for article in self.context['articles']:
             pages += article.translations
