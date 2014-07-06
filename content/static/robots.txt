@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /theme/
+Disallow: /img/
+Disallow: /url.html
+Disallow: /author/
 
-Sitemap: http://www.bicky.me/sitemap.txt
-
+Sitemap: http://www.bicky.me/sitemap.xml
