@@ -3,3 +3,6 @@ input.search-query,.navbar-search.search-query {
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+#footer ul {
+    padding: 0 15px;
+}
