@@ -2,6 +2,6 @@ User-agent: *
 Disallow: /theme/
 Disallow: /img/
 Disallow: /url.html
-Disallow: /author/
+Disallow: /tipuesearch_content.json
 
 Sitemap: http://www.bicky.me/sitemap.xml
