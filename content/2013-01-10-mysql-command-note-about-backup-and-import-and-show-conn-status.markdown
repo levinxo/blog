@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-01-10 16:10
+disqus_identifier: 201301101610
 Slug: mysql-command-note-about-backup-and-import-and-show-conn-status
 Title: mysql备份和导入以及查看连接情况指令备忘
 Category: database

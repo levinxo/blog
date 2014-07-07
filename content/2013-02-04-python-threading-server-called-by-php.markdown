@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-02-04 17:09
+disqus_identifier: 201302041709
 Slug: python-threading-server-called-by-php
 Title: php调用多线程python服务器并解析对应python脚本
 Category: Web

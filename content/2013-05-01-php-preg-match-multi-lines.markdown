@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-05-01 11:35
+disqus_identifier: 201305011135
 Slug: php-preg-match-multi-lines
 Title: php正则匹配多行
 Category: Program language

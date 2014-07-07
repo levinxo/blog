@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-10-20 12:21
+disqus_identifier: 201310201221
 Slug: why-my-info-is-showed-in-qzone-friends-blog
 Title: 为什么qq空间好友的图片会显示自己的呢称
 Category: Web

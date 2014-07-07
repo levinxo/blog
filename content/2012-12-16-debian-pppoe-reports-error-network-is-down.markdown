@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-12-16 17:06
+disqus_identifier: 201212161706
 Slug: debian-pppoe-reports-error-network-is-down
 Title: Debian pppoe拨号上网设置和报错network is down处理方法
 Category: Unix/Linux

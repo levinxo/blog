@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-06-01 16:48
+disqus_identifier: 201306011648
 Slug: configure-apache-and-php-in-osx-mountain-lion
 Title: mac10.8.3配置apache+php5
 Category: Web

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-01-08 14:26
+disqus_identifier: 201301081426
 Slug: python-beginner
 Title: 初学python心得
 Category: Program language

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-04-06 16:08
+disqus_identifier: 201304061608
 Slug: python-unicode-utf-8-gb2312-difference
 Title: python中unicode字符集和utf-8与gb2312编码的区别
 Category: Program language

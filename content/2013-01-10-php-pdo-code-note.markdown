@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-01-10 14:39
+disqus_identifier: 201301101439
 Slug: php-pdo-code-note
 Title: php数据库抽象层PDO小记
 Category: Program language

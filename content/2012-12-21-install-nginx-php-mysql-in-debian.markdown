@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-12-21 15:21
+disqus_identifier: 201212211521
 Slug: install-nginx-php-mysql-in-debian
 Title: Debian下快速安装nginx+php+mysql
 Category: Web

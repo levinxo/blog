@@ -1,6 +1,7 @@
 Title: CentOS系统时区设置
 Author: levin
 Date: 2012-10-26 18:10
+disqus_identifier: 201210261810
 Slug: centos-timezone-setting
 Category: Unix/Linux
 Tags: Linux

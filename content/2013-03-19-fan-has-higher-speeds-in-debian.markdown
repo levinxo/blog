@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-03-19 17:30
+disqus_identifier: 201303191730
 Slug: fan-has-higher-speeds-in-debian
 Title: debian风扇一直很响的原因
 Category: Unix/Linux

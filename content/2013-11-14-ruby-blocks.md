@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-11-14 22:34
+disqus_identifier: 201311142234
 Slug: ruby-blocks
 Title: ruby的block
 Category: Program language

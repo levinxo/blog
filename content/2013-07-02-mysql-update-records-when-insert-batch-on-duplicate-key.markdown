@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-07-02 16:38
+disqus_identifier: 201307021638
 Slug: mysql-update-records-when-insert-batch-on-duplicate-key
 Title: mysql批量插入时更新而不插入重复记录
 Category: database

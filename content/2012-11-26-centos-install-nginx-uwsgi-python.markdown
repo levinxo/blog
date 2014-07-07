@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-11-26 15:56
+disqus_identifier: 201211261556
 Slug: centos-install-nginx-uwsgi-python
 Title: Centos下最简化编译配置安装nginx+uwsgi+python
 Category: Web

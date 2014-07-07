@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-08-07 22:08
+disqus_identifier: 201308072208
 Slug: python-make-http-request-by-socket-library
 Title: 利用python的socket库模拟post、put、delete请求
 Category: Web

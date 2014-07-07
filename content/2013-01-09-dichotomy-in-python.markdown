@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-01-09 14:55
+disqus_identifier: 201301091455
 Slug: dichotomy-in-python
 Title: python二分查找算法实例
 Category: Algo

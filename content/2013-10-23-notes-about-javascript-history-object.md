@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-10-23 20:32
+disqus_identifier: 201310232032
 Slug: notes-about-javascript-history-object
 Title: javascript里history对象的一些笔记备忘
 Category: Program language

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-07-28 15:08
+disqus_identifier: 201307281508
 Slug: my-pagination-on-homepage-base-on-jekyll-pagination-plugin
 Title: 根据jekyll的分页插件编写的主页分页逻辑
 Category: Web

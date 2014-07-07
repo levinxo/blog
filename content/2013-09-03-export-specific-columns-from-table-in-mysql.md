@@ -1,6 +1,7 @@
 Author: levin
 Slug: export-specific-columns-from-table-in-mysql
 Date: 2013-09-03 23:05
+disqus_identifier: 201309032305
 Title: mysql导出指定字段的数据
 Category: database
 Tags: mysql

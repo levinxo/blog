@@ -1,6 +1,7 @@
 Author: levin
 Slug: jquery-waterfall-plugin
 Date: 2013-10-03 23:50
+disqus_identifier: 201310032350
 Title: jquery瀑布流插件
 Category: Web
 Tags: jQuery

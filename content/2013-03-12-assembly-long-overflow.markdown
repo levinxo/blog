@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-03-12 15:33
+disqus_identifier: 201303121533
 Slug: assembly-long-overflow
 Title: 汇编.long申明数组元素溢出的问题
 Category: Program language

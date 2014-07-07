@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-11-22 14:37
+disqus_identifier: 201211221437
 Slug: javascript-detect-object-type
 Title: javascript验证对象类型
 Category: Program language

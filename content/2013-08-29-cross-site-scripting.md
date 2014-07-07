@@ -1,6 +1,7 @@
 Author: levin
 Slug: cross-site-scripting
 Date: 2013-08-29 22:10
+disqus_identifier: 201308292210
 Title: 跨站脚本攻击实现原理
 Category: Web
 Tags: javascript

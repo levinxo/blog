@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-11-22 07:17
+disqus_identifier: 201211220717
 Slug: javascript-reload-and-instance-constructor
 Title: javascript中函数返回函数，重载以及对象实例化相关
 Category: Program language

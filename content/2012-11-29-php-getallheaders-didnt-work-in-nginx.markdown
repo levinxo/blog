@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-11-29 14:21
+disqus_identifier: 201211291421
 Slug: php-getallheaders-didnt-work-in-nginx
 Title: php的getallheaders函数在nginx下失效的解决办法
 Category: Web

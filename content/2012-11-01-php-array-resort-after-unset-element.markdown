@@ -1,6 +1,7 @@
 Author: levin
 Comments: true
 Date: 2012-11-01 17:51
+disqus_identifier: 201211011751
 Slug: php-array-resort-after-unset-element
 Title: php中unset无法重置数组键值的替代处理方式
 Category: Program language

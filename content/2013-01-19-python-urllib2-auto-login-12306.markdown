@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-01-19 13:52
+disqus_identifier: 201301191352
 Slug: python-urllib2-auto-login-12306
 Title: 利用python的urllib2库写爬虫自动登录12306
 Category: Program language

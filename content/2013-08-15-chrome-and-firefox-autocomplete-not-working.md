@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-08-15 21:02
+disqus_identifier: 201308152102
 Slug: chrome-and-firefox-autocomplete-not-working
 Title: chrome和firefox中autocomplete属性失效的解决方法
 Category: Web

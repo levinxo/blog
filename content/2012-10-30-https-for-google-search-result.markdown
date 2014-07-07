@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-10-30 15:37
+disqus_identifier: 201210301537
 Slug: https-for-google-search-result
 Title: CHROME应用--将谷歌搜索结果链接HTTP换为HTTPS
 Category: Web

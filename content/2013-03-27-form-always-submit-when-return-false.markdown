@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-03-27 16:28
+disqus_identifier: 201303271628
 Slug: form-always-submit-when-return-false
 Title: form表单绑定onsubmit事件返回false却一直提交的问题
 Category: Web

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-11-12 17:19
+disqus_identifier: 201211121719
 Slug: ideas-and-faith
 Title: 思想和信仰
 Category: Myself

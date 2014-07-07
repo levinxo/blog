@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-12-07 19:44
+disqus_identifier: 201212071944
 Slug: convert-encoding-in-array-by-php-varexport
 Title: "巧妙使用php的var_export()函数为数组转换编码"
 Category: Web

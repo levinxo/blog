@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-05-01 11:33
+disqus_identifier: 201305011133
 Slug: carriage-return-and-line-feed
 Title: "carriage return"和"line feed"的区别
 Category: Uncategorized

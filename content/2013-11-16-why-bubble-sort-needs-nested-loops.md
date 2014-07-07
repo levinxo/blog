@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-11-16 16:48
+disqus_identifier: 201311161648
 Slug: why-bubble-sort-needs-nested-loops
 Title: 为什么冒泡排序需要两次循环
 Category: Algo

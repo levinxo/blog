@@ -1,5 +1,6 @@
 Author: levin
 Date: 2014-05-01 01:08
+disqus_identifier: 201405010108
 Slug: dollar-symbol-making-sense-in-shell-script
 Title: Shell指令$符号的变戏法
 Category: Unix/linux

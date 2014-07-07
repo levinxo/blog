@@ -1,5 +1,6 @@
 Author: levin
 Date: 2014-01-25 21:25
+disqus_identifier: 201401252125
 Slug: yii-widget-n-asset-publish
 Title: yii框架widget和注册asset的例子
 Category: Web

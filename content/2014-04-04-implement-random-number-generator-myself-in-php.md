@@ -1,5 +1,6 @@
 Author: levin
 Date: 2014-04-04 00:25
+disqus_identifier: 201404040025
 Slug: implement-random-number-generator-myself-in-php
 Title: 在php里编写自己的随机数发生器
 Category: Program language

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-07-08 18:08
+disqus_identifier: 201307081808
 Slug: charset-encoding-convert-in-vim
 Title: 用vim对文件进行字符转换
 Category: Unix/Linux

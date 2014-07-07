@@ -1,6 +1,7 @@
 Author: levin
 Slug: ros-and-router-port-mapping
 Date: 2013-10-07 17:15
+disqus_identifier: 201310071715
 Title: ROS和普通路由器的端口映射和转发
 Category: Uncategorized
 

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-12-07 18:59
+disqus_identifier: 201212071859
 Slug: enable-gzip-for-apache-in-windows
 Title: windows下为apache开启gzip
 Category: Web

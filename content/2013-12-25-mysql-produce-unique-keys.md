@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-12-25 23:08
+disqus_identifier: 201312252308
 Slug: mysql-produce-unique-keys
 Title: 利用mysql生成唯一序号
 Category: database

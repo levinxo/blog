@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-05-29 16:49
+disqus_identifier: 201305291649
 Slug: purchased-macbook-air-md231
 Title: 入手macbook air MD231
 Category: Program language

@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-12-16 16:12
+disqus_identifier: 201212161612
 Slug: windows-xp-works-with-centos
 Title: Windows XP下硬盘安装第二系统CentOS
 Category: Unix/Linux

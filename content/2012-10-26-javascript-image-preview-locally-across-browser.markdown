@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-10-26 18:25
+disqus_identifier: 201210261825
 Slug: javascript-image-preview-locally-across-browser
 Title: 兼容多浏览器的本地图片预览js脚本
 Category: Web

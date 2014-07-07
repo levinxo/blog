@@ -1,5 +1,6 @@
 Author: levin
 Date: 2013-10-11 21:42
+disqus_identifier: 201310112142
 Slug: detect-ie-using-conditional-comments
 Title: 通过条件注释探测IE浏览器
 Category: Web

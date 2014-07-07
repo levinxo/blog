@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-10-29 17:35
+disqus_identifier: 201210291735
 Slug: php-force-download
 Title: PHP编写下载脚本，可强制下载txt格式文件
 Category: Web

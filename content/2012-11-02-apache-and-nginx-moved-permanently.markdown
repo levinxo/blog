@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-11-02 20:26
+disqus_identifier: 201211022026
 Slug: apache-and-nginx-moved-permanently
 Title: apache和nginx重定向(301)
 Category: Web

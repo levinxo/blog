@@ -1,5 +1,6 @@
 Author: levin
 Date: 2012-12-19 15:54
+disqus_identifier: 201212191554
 Slug: debian-install-firefox-and-enable-chinese-support
 Title: debian安装最新firefox与让系统支持中文
 Category: Unix/Linux
