@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'levin'
-SITENAME = u"Levin's blog"
+SITENAME = u"bicky.me"
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
@@ -64,6 +64,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+
+SITE_LICENSE = u'&copy; 2012-2014 <a href="/">bicky.me</a>. <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0/">Some Rights Reserved</a>.'
 
 SUMMARY_MAX_LENGTH = 8
 DEFAULT_PAGINATION = None
