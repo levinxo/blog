@@ -16,7 +16,7 @@ THEME = 'pelican-themes/elegant'
 DISQUS_SITENAME = 'levinxo'
 
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["sitemap","tipue_search",]
+PLUGINS = ["sitemap","tipue_search","neighbors",]
 
 ARTICLE_URL = 'archive/{slug}/'
 ARTICLE_SAVE_AS = 'archive/{slug}/index.html'
