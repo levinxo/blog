@@ -1,8 +1,9 @@
 Author: levin
 Date: 2012-10-26 17:11
+Modified: 2014-08-07 23:30
 disqus_identifier: 201210261711
 Slug: some-compatible-issues-in-chrome-and-firefox
-Title: 关于在chrome中获取IMG标签宽高度为0以及jQuery的animate函数改变background-position在firefox中失效的问题
+Title: 获取图片长宽失败和jQuery的animate失效问题
 Category: Web
 Tags: javascript, jQuery
 
