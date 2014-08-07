@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/levinxo/levinxo.github.io.git
