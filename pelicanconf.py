@@ -14,6 +14,7 @@ DEFAULT_LANG = u'zh-CN'
 
 THEME = 'pelican-themes/elegant'
 DISQUS_SITENAME = 'levinxo'
+GOOGLE_ANALYTICS = 'UA-42652171-1'
 
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["sitemap","tipue_search","neighbors",]
