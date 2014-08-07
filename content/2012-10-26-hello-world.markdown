@@ -1,6 +1,6 @@
 Author: levin
 Date: 2012-10-26 16:13
-Modified: 2014-08-07 23:10
+Modified: 2014-08-08 01:10
 disqus_identifier: 201210261613
 Slug: hello-world
 Title: Hello world!
@@ -38,6 +38,6 @@ Category: Myself
 
 ***
 
-更新于2014-08-07：
+更新于2014-08-08：
 
-到2014年7月，正好使用jekyll一年，想尝试python写的静态站点生成软件，找到了[pelican](/url.html#https://github.com/getpelican/pelican)。花了几天时间迁移之前的文章，为站点加入主题和各种插件。目前博客源码在[这里](/url.html#https://github.com/levinxo/levinxo.github.io)，欢迎查看，其中master分支用于host静态文件，pelican分支存储生成站点的脚本文件。
+到2014年7月，正好使用jekyll一年，想尝试python写的静态站点生成软件，找到了[pelican](/url.html#https://github.com/getpelican/pelican)。花了几天时间迁移之前的文章，为站点加入主题和各种插件。目前博客源码在[这里](/url.html#https://github.com/levinxo/blog)，欢迎查看，其中的webroot文件夹为submodule（子模块），用于存放站点生成的静态文件。
