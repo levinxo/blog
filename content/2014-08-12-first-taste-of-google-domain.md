@@ -1,5 +1,6 @@
 Author: levin
 Date: 2014-08-12 01:50
+disqus_identifier: 201408120150
 Slug: first-taste-of-google-domains
 Title: 谷歌域名注册服务初体验
 Category: Uncategorized
