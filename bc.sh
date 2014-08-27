@@ -15,4 +15,8 @@ do
     fi
 done
 
+#make publish
+rm -rf output/
+make publish
+cp -r output/* webroot/ && rm -rf output/
 
