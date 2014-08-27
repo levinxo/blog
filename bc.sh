@@ -18,5 +18,12 @@ done
 #make publish
 rm -rf output/
 make publish
+
+#remove no use file
+cd output
+rm -rf author/ category/ feeds/ tag/
+cd ..
+
+#copy file to webroot
 cp -r output/* webroot/ && rm -rf output/
 
