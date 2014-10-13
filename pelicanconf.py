@@ -48,6 +48,7 @@ EXTRA_PATH_METADATA = {
     'static/README': {'path': 'README.md'},
     'static/CNAME': {'path': 'CNAME'},
     'static/url': {'path': 'url.html'},
+    'static/quote': {'path': 'quote.html'},
 }
 
 
