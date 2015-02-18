@@ -24,6 +24,9 @@ cd output
 rm -rf author/ category/ feeds/ tag/
 cd ..
 
-#copy file to webroot
-cp -r output/* webroot/ && rm -rf output/
+#copy file to blog webroot then tar it!
+mkdir -p blog && rm -rf blog/*
+cp -r output/* blog/ && rm -rf output/
+rm -f blog.tar.gz && tar -zcf blog.tar.gz blog
+rm -rf blog
 
