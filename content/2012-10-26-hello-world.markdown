@@ -41,3 +41,10 @@ Category: Myself
 更新于2014-08-08：
 
 到2014年7月，正好使用jekyll一年，想尝试python写的静态站点生成软件，找到了[pelican](/url.html#https://github.com/getpelican/pelican)。花了几天时间迁移之前的文章，为站点加入主题和各种插件。目前博客源码在[这里](/url.html#https://github.com/levinxo/blog)，欢迎查看，其中的webroot文件夹为submodule（子模块），用于存放站点生成的静态文件。
+
+***
+
+更新于2015-02-19：
+
+2015年2月，整个blog通过pelican生成的静态文件已从github page迁移至linode服务器上，同时支持http和https访问，站点生成器依旧是pelican。
+
