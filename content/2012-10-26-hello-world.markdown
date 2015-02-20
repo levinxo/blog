@@ -46,5 +46,5 @@ Category: Myself
 
 更新于2015-02-19：
 
-2015年2月，整个blog通过pelican生成的静态文件已从github page迁移至linode服务器上，同时支持http和https访问，站点生成器依旧是pelican。
+2015年2月，整个blog通过pelican生成的静态文件已从github page迁移至linode服务器上，同时支持http和[https](https://www.bicky.me/)访问，站点生成器依旧是pelican。
 
