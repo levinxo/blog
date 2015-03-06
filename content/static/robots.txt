@@ -5,4 +5,4 @@ Disallow: /url.html
 Disallow: /search.html
 Disallow: /tipuesearch_content.json
 
-Sitemap: http://www.bicky.me/sitemap.xml
+Sitemap: https://www.bicky.me/sitemap.xml
