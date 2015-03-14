@@ -33,15 +33,19 @@
         {% endblock meta_tags_in_head %}
         <title>{% block title %}{{ SITENAME|striptags|e }}{% endblock title %}</title>
         {% block head_links %}
-        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+        <link href="//ajax.aspnetcdn.com/ajax/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
         {% if 'assets' in PLUGINS %}
         {% include '_includes/minify_css.html' with context %}
         {% else %}
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/nprogress-0.1.6/nprogress.css" media="screen">
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css" media="screen">
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/tipuesearch/tipuesearch.css" media="screen">
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/elegant.css" media="screen">
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/custom.css" media="screen">
+        <script src="{{ SITEURL }}/theme/nprogress-0.1.6/nprogress.js"></script>
+        <script>
+            NProgress.start();
+        </script>
         {% endif %}
         {% endblock head_links %}
         {% include '_includes/favicon_links.html' %}
@@ -93,8 +97,11 @@
     </div>
         {% include '_includes/footer.html' %}
         {% block script %}
-        <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+        <script>
+            NProgress.set(0.3);
+        </script>
+        <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.3.min.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/bootstrap/2.3.2/bootstrap.min.js"></script>
         <script>
             function validateForm(query)
             {
@@ -104,6 +111,11 @@
         {% endblock script %}
         {% include '_includes/stat_counter.html' %}
     </body>
+    <script>
+        $(document).ready(function(){
+            NProgress.done();
+        });
+    </script>
     <!-- Theme: Elegant built for Pelican
     License : http://oncrashreboot.com/pelican-elegant -->
 </html>
