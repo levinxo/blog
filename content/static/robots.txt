@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /theme/
 Disallow: /tools/
+Disallow: /crm/
 Disallow: /img/
 Disallow: /url.html
 Disallow: /search.html
