@@ -17,7 +17,7 @@ DISQUS_SITENAME = 'levinxo'
 GOOGLE_ANALYTICS = 'UA-42652171-1'
 
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["sitemap","tipue_search","neighbors",]
+PLUGINS = ["sitemap","neighbors",]
 
 ARTICLE_URL = 'archive/{slug}/'
 ARTICLE_SAVE_AS = 'archive/{slug}/index.html'
