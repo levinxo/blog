@@ -206,8 +206,8 @@ Tags: PHP,python
 
 此时目录结构看起来应该是这样的：
 
-![php调用多线程python服务器目录结构](/img/python-threading-server-file-folder.png)
+![php调用多线程python服务器目录结构](http://ww4.sinaimg.cn/large/0069yvRGgw1etc589uywnj30a004ft8m.jpg)
 
 然后在浏览器里访问php脚本，就能看到hello world啦
 
-![php调用多线程python服务器并解析对应python脚本hello world例子](/img/python-threading-server-hello-world.png)
+![php调用多线程python服务器并解析对应python脚本hello world例子](http://ww4.sinaimg.cn/large/0069yvRGgw1etc58asrm6j30b007d0sv.jpg)

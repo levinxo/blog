@@ -19,9 +19,9 @@ Tags: Mac
 
 下面是全屏的shell再打开vim的样子，我只能感慨，太纯粹了。
 
-![mac下vim全屏](/img/mac-shell-vim-fullscreen.png)
-[查看大图](/img/mac-shell-vim-fullscreen.png)
+![mac下vim全屏](http://ww3.sinaimg.cn/large/0069yvRGgw1etc587urzcj31400p00tf.jpg)
+[查看大图](http://ww3.sinaimg.cn/large/0069yvRGgw1etc587urzcj31400p00tf.jpg)
 
 下图是从mac将文件拷到exfat格式usb3.0口的移动硬盘传输信息：
 
-![mac下传输文件到exfat格式的usb3.0移动硬盘](/img/mac-transfer-data-to-exfat-hard-driver-through-usb3.png)
+![mac下传输文件到exfat格式的usb3.0移动硬盘](http://ww4.sinaimg.cn/large/0069yvRGgw1etc589688fj30cg0463zz.jpg)

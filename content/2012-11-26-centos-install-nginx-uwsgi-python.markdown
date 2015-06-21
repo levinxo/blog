@@ -59,7 +59,7 @@ Tags: linux,nginx,python,uwsgi
 
 Centos系统放在了虚拟机里，我用winxp母机，firefox17.0查看的页面，结果是挺让人吃惊的，单纯的helloworld几乎不耗时间，如图
 
-![nginx+uwsgi+python测试，速度快的惊人](/img/python-uwsgi-nginx-test.png)
+![nginx+uwsgi+python测试，速度快的惊人](http://ww4.sinaimg.cn/large/0069yvRGgw1etc58bhj52j309u07q74e.jpg)
 
 如果是使用django等python框架的，相关的配置信息会更容易找些。
 
