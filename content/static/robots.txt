@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /theme/
-Disallow: /tools/
-Disallow: /crm/
-Disallow: /url.html
-Disallow: /search.html
-Disallow: /tipuesearch_content.json
-
-Sitemap: https://www.bicky.me/sitemap.xml

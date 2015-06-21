@@ -30,10 +30,10 @@ Category: Myself
 
 用了小红帽家的openshift大概4个月吧，到了今年3月的时候，openshift很难连接上了，
 查看[openshift服务器状态](/url.html#https://openshift.redhat.com/app/status)却是`No open issues`。
-所以被迫将[博客转移到了sae](/archive/my-blog-moved-to-sae-from-rhcloud/)上，挥泪告别可爱的小红帽。
+所以被迫将[博客转移到了sae](/blog/archive/my-blog-moved-to-sae-from-rhcloud/)上，挥泪告别可爱的小红帽。
 
 在7月份的时候，觉得wordpress写博客不够有趣，而且sae又无法在不备案的情况下真正地绑定域名，
-所以就将[博客转移到了github](/archive/my-pagination-on-homepage-base-on-jekyll-pagination-plugin/)，
+所以就将[博客转移到了github](/blog/archive/my-pagination-on-homepage-base-on-jekyll-pagination-plugin/)，
 目前为止运行状态良好。
 
 ***

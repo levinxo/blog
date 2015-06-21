@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://www.bicky.me'
+SITEURL = 'https://www.bicky.me/blog'
 RELATIVE_URLS = True
 
 FEED_ALL_ATOM = None

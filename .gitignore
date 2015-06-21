@@ -1,9 +1,10 @@
 Thumbs.db
 .DS_Store
+*.swp
+*.pyc
+*.pid
+*.tar.gz
 
 output/*
 cache/*
-*.pyc
-*.pid
-
 
