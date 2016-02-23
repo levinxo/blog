@@ -20,7 +20,7 @@ jekyll的<a href="http://jekyllrb.com/docs/pagination/" rel="nofollow">分页插
 在当前页码的前几页页码不够3个时，若后面存在6个以上的页码会自动补满10个页码，反之亦然。
 
 用liquid写好的分页逻辑放在
-<a href="http://git.io/zpcrXA" rel="nofollow">这里</a>。
+<a href="https://github.com/levinxo/jekyll-blog/blob/master/_includes/JB/posts_paginator" rel="nofollow">这里</a>。
 
 如果拿来用，最好是改造下，修改相应的标签和class以便于直接使用自己主题的分页样式。
 
@@ -30,4 +30,4 @@ jekyll的<a href="http://jekyllrb.com/docs/pagination/" rel="nofollow">分页插
 
 上面的分页样式是自己写的样式，目前新增了使用bootstrap的分页样式，更契合博客的主题一点。
 
-代码地址在：[这里](/url.html#https://github.com/levinxo/levinxo.github.io/blob/master/_includes/JB/posts_paginator_bs "jekyll主页分页插件")
+代码地址在：[这里](/url.html#https://github.com/levinxo/jekyll-blog/blob/master/_includes/JB/posts_paginator_bs "jekyll主页分页插件")
