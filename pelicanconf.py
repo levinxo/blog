@@ -62,7 +62,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-SITE_LICENSE = u'&copy; 2012-<script>(function(){var t = new Date(), y = t.getFullYear();document.write(y);})()</script> <a href="/">bicky.me</a>. <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0/">Some Rights Reserved</a>.'
+SITE_LICENSE = u'&copy; 2012-<script>(function(){var t = new Date(), y = t.getFullYear();document.write(y);})()</script> <a href="/">bicky.me</a>. <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0/">Some Rights Reserved</a>. &#124; <a rel="nofollow" href="https://www.bicky.me:3000/">Redmine</a>. <a rel="nofollow" href="https://www.bicky.me:3000/gerrit/">Gerrit</a>.'
 
 SUMMARY_MAX_LENGTH = 8
 DEFAULT_PAGINATION = None
