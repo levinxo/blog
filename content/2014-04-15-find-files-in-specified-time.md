@@ -3,7 +3,7 @@ Date: 2014-04-15 22:10
 disqus_identifier: 201404152210
 Slug: find-files-in-specified-time
 Title: 使用find指令查找特定/指定时间内的文件
-Category: Unix/linux
+Category: Unix/Linux
 Tags: shell
 
 需求查找某个时间点之后修改的文件，于是使用了下面的shell指令：<!-- more -->

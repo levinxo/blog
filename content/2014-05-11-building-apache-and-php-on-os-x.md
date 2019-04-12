@@ -3,7 +3,7 @@ Date: 2014-05-11 21:38
 disqus_identifier: 201405112138
 Slug: building-apache-and-php-on-os-x
 Title: 在Mac OS X编译安装Apache2.2和PHP5.5
-Category: Unix/linux
+Category: Unix/Linux
 Tags: Mac,PHP,apache
 
 Apache 2.2.27和PHP 5.5.12在Mac OS X 10.8.5编译安装过程：<!-- more -->

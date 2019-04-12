@@ -3,7 +3,7 @@ Date: 2014-05-01 01:08
 disqus_identifier: 201405010108
 Slug: dollar-symbol-making-sense-in-shell-script
 Title: Shell指令$符号的变戏法
-Category: Unix/linux
+Category: Unix/Linux
 Tags: shell
 
 在BashShell中`$`符号一般用来指代变量，但是它在括号、花括号等符号的配合下功能也是非常多，处理字符串方面速度也优于awk、sed等外部字符流处理程序，下面做个总结<!-- more -->
