@@ -3,8 +3,8 @@ Date: 2013-03-16 13:35
 disqus_identifier: 201303161335
 Slug: my-blog-moved-to-sae-from-rhcloud
 Title: 博客从openshift迁移至sae
-Category: Myself
-Tags: me
+Category: 随笔
+Tags: 随笔
 
 <!-- more -->
 

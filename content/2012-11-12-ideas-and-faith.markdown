@@ -1,10 +1,10 @@
-Author: levin
+Author: Levin
 Date: 2012-11-12 17:19
 disqus_identifier: 201211121719
 Slug: ideas-and-faith
 Title: 思想和信仰
-Category: Myself
-Tags: me
+Category: 随笔
+Tags: 随笔
 
 今天一气呵成把《V for Vendetta》看完了，许久没有这种淋漓尽致的感觉。
 

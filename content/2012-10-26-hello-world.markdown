@@ -1,10 +1,10 @@
-Author: levin
+Author: Levin
 Date: 2012-10-26 16:13
-Modified: 2015-02-21 01:10
+Modified: 2019-05-26 03:05
 disqus_identifier: 201210261613
 Slug: hello-world
 Title: Hello world!
-Category: Myself
+Category: 随笔
 
 折腾了很久，找了很多的云服务，终于打算在openshift安家了。
 
@@ -24,7 +24,7 @@ Category: Myself
 
 谨以此文纪念我折腾云服务的小插曲。
 
-***
+---
 
 更新于2013-10-20：
 
@@ -36,15 +36,21 @@ Category: Myself
 所以就将[博客转移到了github](/blog/archive/my-pagination-on-homepage-base-on-jekyll-pagination-plugin/)，
 目前为止运行状态良好。
 
-***
+---
 
 更新于2014-08-08：
 
 到2014年7月，正好使用jekyll一年，想尝试python写的静态站点生成软件，找到了[pelican](/url.html#https://github.com/getpelican/pelican)。花了几天时间迁移之前的文章，为站点加入主题和各种插件。目前博客源码在[这里](/url.html#https://github.com/levinxo/blog)，欢迎查看，其中的webroot文件夹为submodule（子模块），用于存放站点生成的静态文件。
 
-***
+---
 
 更新于2015-02-19：
 
 2015年2月，整个blog通过pelican生成的静态文件已从github page迁移至linode服务器上，同时支持http和[https](https://www.bicky.me/)访问，站点生成器依旧是pelican。
+
+---
+
+更新于2019-05-26：
+
+2019年4月，用GO写了个静态博客生成器，并把原先用pelican生成的内容无缝迁移了过来。
 

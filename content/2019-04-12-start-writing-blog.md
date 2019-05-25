@@ -3,7 +3,7 @@ Date: 2019-04-12 15:06
 disqus_identifier: 201904121506
 Slug: start-writing-blog
 Title: 重拾博客
-Category: Myself
+Category: 随笔
 
 #### GO编写的静态博客生成器
 
