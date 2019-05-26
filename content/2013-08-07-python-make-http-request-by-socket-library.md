@@ -1,4 +1,4 @@
-Author: levin
+Author: Levin
 Date: 2013-08-07 22:08
 disqus_identifier: 201308072208
 Slug: python-make-http-request-by-socket-library
@@ -10,7 +10,7 @@ HTTP1.1中有8种请求方式，包括GET、POST、HEAD、CONNECT、TRACE、OPTI
 
 在所有的请求中，必须带有http头`Host`，比如请求`127.0.0.1:8000`，则`Host`头要写为`Host: 127.0.0.1:8000`。在每个头之间用换行来间隔，头和body之间使用两个换行来间隔。
 
-###GET方法
+### GET方法
 
 GET请求最简单，参数串跟在请求的url之后，用`?`指示参数串开始，GET请求时是不用带有body的。
 
@@ -18,7 +18,7 @@ GET请求最简单，参数串跟在请求的url之后，用`?`指示参数串�
 
     GET /?param1=a&param2=b HTTP/1.1\r\nHost: *.*.*.*\r\n\r\n
 
-###POST方法
+### POST方法
 
 POST请求则需要在头中声明body带的参数的类型，一般为`application/x-www-form-urlencoded`，并且在头中明示body数据的长度，body中的数据为urlencode过的参数串，和GET方法url问号之后的参数一样的格式
 
@@ -26,7 +26,7 @@ POST请求则需要在头中声明body带的参数的类型，一般为`applicat
 
     POST / HTTP/1.1\r\nHost: *.*.*.*\r\nContent-Type: x-www-form-urlencoded\r\nContent-Length: 17\r\n\r\nparam1=a&param2=b
 
-###PUT方法
+### PUT方法
 
 PUT请求若只是纯参数不需要带有`Content-Type`头，但是需要`Content-Length`头指明body的长度。
 
@@ -34,7 +34,7 @@ PUT请求若只是纯参数不需要带有`Content-Type`头，但是需要`Conte
 
     PUT / HTTP/1.1\r\nHost: *.*.*.*\r\nContent-Length: 17\r\n\r\nparam1=a&param2=b
 
-###DELETE方法
+### DELETE方法
 
 DELETE请求也同样不需要带有`Content-Type`头，但也需要指明body的长度。
 
@@ -42,7 +42,7 @@ DELETE请求也同样不需要带有`Content-Type`头，但也需要指明body�
 
     DELETE / HTTP/1.1\r\nHost: *.*.*.*\r\nContent-Length: 17\r\n\r\nparam1=a&param2=b
 
-###实例
+### 实例
 
 下面是用python的socket库写的这4个方法请求实例：
 
